@@ -16,12 +16,12 @@ This game runs entirely in the browser—no installation or backend required.
 
 ## 🚀 Features
 
-- [x] Intuitive click-based interaction
-- [x] Increasing difficulty with each level
-- [x] Responsive design for desktop and mobile
-- [x] Simple and lightweight—no dependencies
-- [ ] Run on all platforms
-- [ ] Responsible design
+- Intuitive click-based interaction
+- Increasing difficulty with each level
+- Responsive design for desktop and mobile
+- Simple and lightweight—no dependencies
+- Run on all platforms
+- Responsible design
 
 ## ▶️ How to Play
 
